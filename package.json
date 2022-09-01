@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "d3-scale": "^4.0.2",
+    "d3-scale-chromatic": "^3.0.0",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "recharts": "2.1.12"
   },
   "devDependencies": {
     "eslint": "8.23.0",
